@@ -1,0 +1,30 @@
+things to remember :
+bootstrap 4 is mainly 4 3 things
+1.responsive
+
+2.mobile first 
+
+3.fluid
+
+
+there are 5 classes
+small
+medium
+large
+xtralarge
+and extra small
+
+order-sm-last makes the column go last
+order-sm-first makes the column go first
+
+
+for vertical align just add align-items-center beside the row
+
+for horizontal align use justify -content-center beside the row
+
+offset means leaving some colums
+denoted by offset -sm-1 so the class will be shifted to the right by one column
+
+we can nest content
+we can make column again a row and then again spit the column into twelve rows 
+
