@@ -26,5 +26,7 @@ offset means leaving some colums
 denoted by offset -sm-1 so the class will be shifted to the right by one column
 
 we can nest content
-we can make column again a row and then again spit the column into twelve rows 
+we can make column again a row and then again spit the column into   
 
+
+min height is very important
