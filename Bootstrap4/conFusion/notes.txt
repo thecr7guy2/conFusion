@@ -30,3 +30,28 @@ we can make column again a row and then again spit the column into
 
 
 min height is very important
+
+
+so our first component we are going to study is navbar
+so we take use of html classes
+nav and add the bootstrap classes
+1) navbar
+2)navbar-dark or navbar-light
+3)navbar-expand-sm
+toggling the expandable function of when switched to small screens 
+4)bg-primary
+default is blue with this tag we can change the color of the navbar
+5)fixed-top or fixed-bottom
+stikcs to the top of the screen
+
+
+after that the first thing is navbar-brand
+
+then we put a ul with classes
+navbar-nav and
+mr-auto to make the navbar align to the right
+
+inside the ul we create a li whic will have class nav-item
+each itemwill have a <a> which will have href and class nav-link
+
+we can apply the class active to the li item  in whichever page we are so that the user knows he is that page
