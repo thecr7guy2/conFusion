@@ -55,3 +55,21 @@ inside the ul we create a li whic will have class nav-item
 each itemwill have a <a> which will have href and class nav-link
 
 we can apply the class active to the li item  in whichever page we are so that the user knows he is that page
+
+after doing this our webpage will be alright but one thing will be wrong which is the responsiveness
+we want the ul to dissapear in mobile view so 
+we have do one thing we have to adda button 
+<button class="navbar-toggler" type="button" data-toggle="collapsable" data-target="# ehatever want>
+<span class="navbar-toggler-ico">
+</button>
+
+then we have to enclose the ul tag in a div 
+<div class="navbar-collapse collapse"
+id="whatever u defined above">
+
+
+then let us see about breadcrumbs
+we define a ol class with classname ="breadcrumb"
+then inside the li item will have a classname="breadcrumb-item"
+
+now we will see about icon fonts
